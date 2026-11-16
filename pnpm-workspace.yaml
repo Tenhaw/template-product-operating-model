@@ -1,3 +1,6 @@
+strictDepBuilds: true
+allowBuilds:
+  esbuild: true
 minimumReleaseAgeExclude:
-  - '@tenhaw/core@1.0.0'
-  - '@tenhaw/opmodel@1.0.0'
+  - '@tenhaw/core@1.0.1'
+  - '@tenhaw/opmodel@1.0.1'

@@ -9,11 +9,11 @@ importers:
   .:
     dependencies:
       '@tenhaw/core':
-        specifier: 1.0.0
-        version: 1.0.0
+        specifier: 1.0.1
+        version: 1.0.1
       '@tenhaw/opmodel':
-        specifier: 1.0.0
-        version: 1.0.0
+        specifier: 1.0.1
+        version: 1.0.1
       next:
         specifier: 16.4.5
         version: 16.4.5(@playwright/test@1.65.1)(@types/node@22.20.5)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
@@ -575,12 +575,12 @@ packages:
   '@swc/helpers@0.5.23':
     resolution: {integrity: sha512-5lSsMOTXURePglDfvuAQUqkGek9Hg2kksOYay2m0+XR++b2NWYL/4sWyuvVBIs8oKnJaxkdi9whaL/sqN13afw==}
 
-  '@tenhaw/core@1.0.0':
-    resolution: {integrity: sha512-0k2+kuhYFZUniU8/gd1367E1yqC6N2suj7tOrM391v+1+15/jySR36WWWsMCnG2T7taXgkTm0BR/2PgTfPd0FQ==}
+  '@tenhaw/core@1.0.1':
+    resolution: {integrity: sha512-LpLBvR5cxygnSTQgc3hNgM/JUJDIrO9J7hZs0xcuqPPuEywJDH9wSqHORUo48aRW612UOt+1+wrrnpb6O7iUCw==}
     engines: {node: '>=22'}
 
-  '@tenhaw/opmodel@1.0.0':
-    resolution: {integrity: sha512-fcnTTxT2u8VUWzSA11HH+vaCEpue+D7AGkj+NH3NLJNGXg61buw4RudtjIJ3BHyQKV+Df+QeMiYUcZyAOTmp+w==}
+  '@tenhaw/opmodel@1.0.1':
+    resolution: {integrity: sha512-4vyJw6M9HdvwFS81Txrbzx+Sby/JQ2Gx0Jim83s4cXYAKqM+0/6re7Qiu1EScF67/xNRYM+fb+8GABFFDYvE0g==}
     engines: {node: '>=22'}
 
   '@types/chai@5.2.3':
@@ -1279,14 +1279,14 @@ snapshots:
     dependencies:
       tslib: 2.9.1
 
-  '@tenhaw/core@1.0.0':
+  '@tenhaw/core@1.0.1':
     dependencies:
       ajv: 8.20.0
       ajv-formats: 3.0.1(ajv@8.20.0)
 
-  '@tenhaw/opmodel@1.0.0':
+  '@tenhaw/opmodel@1.0.1':
     dependencies:
-      '@tenhaw/core': 1.0.0
+      '@tenhaw/core': 1.0.1
 
   '@types/chai@5.2.3':
     dependencies:
